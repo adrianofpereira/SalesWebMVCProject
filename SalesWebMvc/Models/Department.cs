@@ -14,6 +14,7 @@ namespace SalesWebMvc.Models
         {
         }
 
+        //Contrutores
         public Department(int id, string name)
         {
             Id = id;
